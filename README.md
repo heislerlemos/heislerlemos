@@ -3,7 +3,8 @@
 <div id="container" align="center">
   
 <div id="body">
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150" />
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" />
+<br>
 <br>
 <b>I'm Heisler nice to meet you  👋🏾  </b>
 <br>
