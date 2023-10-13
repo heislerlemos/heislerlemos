@@ -1,12 +1,12 @@
 <style>
   
-#header {
+#container {
 background-color:red;
 }
   
 </style>
 
-
+<div id="container">
 <div id="body" align="center">
 I'm Heisler Stlano Nice to meet you 
 
@@ -29,7 +29,7 @@ Check my Linkdin
 
 </div>
 
-
+</div>
 <!--
 **heislerlemos/heislerlemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
