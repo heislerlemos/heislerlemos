@@ -1,6 +1,7 @@
 <style>
 #header {
 margin: 50px;
+background-color: red;
 }
   
 </style>
