@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/heisler-stlano-969624146?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bmx7XOHb9T8m4i1X%2BH1g9vw%3D%3D">
   <img src="https://media4.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy_s.gif?cid=ecf05e47nlcsksr8yp0mfjng4fvnc5m5mqxedjrq67bnh5qp&ep=v1_stickers_search&rid=giphy_s.gif&ct=s" width="70">
 </a>
-##############
+#################
 </b>
 
 </div>
