@@ -17,6 +17,7 @@
 <br>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlvcjRsbTU4ZHE4MmI1OXBvN2Z3eDFodHl6MDR0ZTF3ZnZya3B1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4vzPXQbOxaOr1ZavUt/giphy.gif" width="100"/>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNsN2pxYmp4NGIzMmdyM2phb2Q1cHBseHZsNmFlYzFyd3UyN2JsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="100"/>
+<img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="100"/>
 <br>
 <br>
 ###################################################################   
