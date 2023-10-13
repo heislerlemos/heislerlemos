@@ -4,7 +4,7 @@
   
 <div id="body">
 <br>
-<b>I'm Heisler Stlano nice to meet you  👋🏾  </b>
+<b>I'm Heisler nice to meet you  👋🏾  </b>
 <br>
 <br> 
   ###################################################################   
