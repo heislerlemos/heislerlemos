@@ -1,12 +1,5 @@
-<style>
-  
-#container {
-background-color:red;
-}
-  
-</style>
 
-<div id="container">
+<div id="container" style="background-color: red;">
 <div id="body" align="center">
 I'm Heisler Stlano Nice to meet you 
 
