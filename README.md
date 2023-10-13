@@ -8,7 +8,6 @@
 <b> Hello world i'm Heisler nice to meet you  👋🏾  </b>
 <br>
 <br> 
-  ###################################################################   
 <br>
 <br>
 <b>I'm passionate about programing and linux 👨🏾‍💻 </b>
@@ -19,7 +18,6 @@
 <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" width="80"/>
 <br>
 <br>
-###################################################################   
 <br>   
 <br>
 <b> I'm looking to collaborate on open source projects ❤️ </b>
