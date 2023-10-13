@@ -1,6 +1,7 @@
 <style>
-#header {
-margin:auto;
+#header img {
+margin-right: 5px;
+margin-left: 5px;
 
 }
   
