@@ -7,8 +7,6 @@
 <br>
 <b> Hello world i'm Heisler nice to meet you  👋🏾  </b>
 <br>
-<br> 
-<br>
 <br>
 <b>I'm passionate about programing and linux 👨🏾‍💻 </b>
 <br>
