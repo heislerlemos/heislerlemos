@@ -1,7 +1,7 @@
 <style>
 #header img {
 margin: 500px;
-
+background-color: red;
 }
   
 </style>
