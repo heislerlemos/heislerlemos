@@ -1,7 +1,7 @@
 <style>
+  
 #header {
-margin: 50px;
-background-color: red;
+background-color:red;
 }
   
 </style>
