@@ -1,3 +1,11 @@
+<style>
+#header {
+margin:auto;
+
+}
+  
+</style>
+
 
 <div id="body" align="center">
 I'm Heisler Stlano Nice to meet you 
