@@ -1,7 +1,7 @@
 <style>
 #header img {
 margin-right: 100px;
-margin-left: 10px;
+margin-left: 100px;
 
 }
   
