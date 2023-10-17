@@ -5,7 +5,7 @@
 <div id="body">
 <br>
 <br>
-<b> Hello world i'm Heisler nice to meet you   <p style="font-size: x-large" >👋🏾</p></b>
+<b> Hello world i'm Heisler nice to meet you   <p style="font-size: 30px;" >👋🏾</p></b>
 <br>
 <br>
 <p>I'm passionate about programing and linux 👨🏾‍💻 </p>
