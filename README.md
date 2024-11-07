@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 👯 I’m looking to collaborate on **RAILS**
+- 👯 I’m looking to collaborate on **RAILS,EXPRESS,DJANGO**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
