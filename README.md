@@ -6,7 +6,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 
-<h3 align="center">A passionate software developer from Angola</h3>
+<h3 align="center">A passionate programmer from Angola</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heislerlemos&label=Profile%20views&color=0e75b6&style=flat" alt="heislerlemos" /> </p>
 
