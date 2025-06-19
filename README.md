@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Ask me about **ruby,javascript,java,python and c# **
+- 💬 Ask me about ruby,javascript,java,python and c# 
 
 - 📫 How to reach me **heisler.lemos@gmail.com**
 
