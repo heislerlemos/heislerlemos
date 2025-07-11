@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Heisler Stlano </h1>
-
-
+<p align="center">
 [![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
-
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+</p>
 
 
 <h3 align="center">A passionate programmer from Luanda/Angola</h3>
