@@ -6,7 +6,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 
-<h3 align="center">A passionate programmer from Angola</h3>
+<h3 align="center">A passionate programmer from Luanda/Angola</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heislerlemos&label=Profile%20views&color=0e75b6&style=flat" alt="heislerlemos" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning  React, C# Winforms, Rails
 
-- 👯 I’m looking to collaborate on **RAILS,EXPRESS,DJANGO**
+- 👯 I’m looking to collaborate on **Ruby,JS,C#**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
