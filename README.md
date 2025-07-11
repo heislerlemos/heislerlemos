@@ -35,6 +35,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=babel,bash,bsd,c,cs,css,debian,django,docker,dotnet,express,git,github,grafana,heroku,html,java,js,jquery,laravel,linux,mongodb,mysql,nodejs,npm,php,postgres,powershell,rails,react,ruby,vim,visualstudio,vscode,webpack,windows,yarn" />
   </a>
-</p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heislerlemos&show_icons=true&locale=en" alt="heislerlemos" /></p>
+</p>
