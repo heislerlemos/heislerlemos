@@ -11,21 +11,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heislerlemos&label=Profile%20views&color=0e75b6&style=flat" alt="heislerlemos" /> </p>
 
-- 🔭 I’m currently working on  React App, C# App, Ruby App
+📄 Know about my experiences [https://www.linkedin.com/in/heisler-stlano-969624146/](https://www.linkedin.com/in/heisler-stlano-969624146/)
 
-- 🌱 I’m currently learning  React, C# Winforms, Rails
-
-- 👯 I’m looking to collaborate on **Ruby,JS,C#**
-
-- 👨‍💻 All of my projects are available at [Github](Github)
-
-- 💬 Ask me about tech news
-
-- 📫 How to reach me **heisler.lemos@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/heisler-stlano-969624146/](https://www.linkedin.com/in/heisler-stlano-969624146/)
-
-- ⚡ Fun fact code get stuck fix bug sleep and repeat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
