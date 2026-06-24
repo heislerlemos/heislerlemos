@@ -13,3 +13,8 @@
 
   [![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
 
+<p align="center">
+  <a href="http://forthebadge.com">
+    <img src="http://forthebadge.com/images/badges/made-with-ruby.svg" alt="Alt Text" width="400">
+  </a>
+</p>
