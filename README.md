@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Heisler Lemos </h1>
 <p align="center">
   
 [![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
