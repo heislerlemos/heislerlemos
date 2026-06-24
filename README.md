@@ -16,4 +16,3 @@
     <img src="https://skillicons.dev/icons?i=ruby" />
   </a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heislerlemos&show_icons=true&locale=en" alt="heislerlemos" /></p>
