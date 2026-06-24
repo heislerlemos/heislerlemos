@@ -8,9 +8,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ruby" />
   </a>
+</p>
 
-
-
+<p align="center">
   <a href="http://forthebadge.com">
     <img src="http://forthebadge.com/images/badges/made-with-ruby.svg" alt="Alt Text" width="350">
   </a>
